@@ -1,7 +1,5 @@
 package main
 
-func hello() string {
+func draft() string {
 	return "hello world"
 }
-
-func fibo
